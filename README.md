@@ -1,4 +1,4 @@
-# NT131_DOAN
+# NT131_esp8266-arm
 
 Nhom 7
 Nguyen Van Tai - 19522152
